@@ -6,4 +6,8 @@ catboost
 xgboost
 matplotlib
 dill
+Flask
 # -e .
+
+
+# CLI propmpt - pip install -r requirements.txt
